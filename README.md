@@ -1,1 +1,1 @@
-Run 'gui.py' to execute program.
+Run 'gui.py' to execute program on desktop.
